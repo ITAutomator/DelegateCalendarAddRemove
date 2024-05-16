@@ -1,0 +1,2 @@
+Owner_ID,Delegate_ID,RemoveAllAccess,Contacts_Edit,Notes_Edit,Private_Items,DelgateReceivesMeetingNotices,NotifyDelegate
+owner@contoso.com,delegate@contoso.com,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
